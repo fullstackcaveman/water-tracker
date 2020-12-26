@@ -1,6 +1,6 @@
 // sass --watch scss/style.scss:dist/style.css
 
-@import url('https://fonts.googleapis.com/css2?family=Monserrat:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;600&display=swap');
 
 :root {
 	--border-color: #144fc6;
@@ -14,7 +14,7 @@
 body {
 	background-color: #3494e4;
 	color: #fff;
-	font-family: 'Monserat', sans-serif;
+	font-family: 'Roboto', sans-serif;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
